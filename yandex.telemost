@@ -1,6 +1,6 @@
 import requests
 
-oauth_token = "y0_AgAEA7qkicABAAtcbgAAAAD8aWAsAAAiu_L6PPRCDbmSmee00ADsIOjlVg"
+oauth_token = ""
 
 
 # Функция для создания видеовстречи
